@@ -25,6 +25,7 @@ export default function Seusdados ()  {
         </div>
       </div>
       <p><Link href={'/'}>Voltar</Link></p>*/}
+      <img public="/images/Group 116.png" alt="Group" className="group" />
     </div>
   );
 };
