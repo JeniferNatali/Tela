@@ -8,7 +8,7 @@ export default function Home() {
     <h1>Bem vindo ao Aquanerdz</h1>
     <br />
 
-    <p><Link href={'/tela'}>Header</Link></p>
+    <Link href={'/tela'}>Usuario</Link>
     </main>
   );
 }
