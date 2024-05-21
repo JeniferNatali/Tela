@@ -20,6 +20,7 @@
 .header .right {
     display: flex;
     align-items: center;
+    margin-right: 28px;
 }
   
 .header .right a {

@@ -9,11 +9,12 @@ export default function Seusdados ()  {
     <div className="user-info">
         <Header />
         <UserInfo />
-      <h1>Seus dados</h1>
+     {/* <h1>Seus dados</h1>
       <div className="user-card">
         <div className="user-details">
-          <p><strong>Nome</strong> <input /></p>
-          <input />
+        <div>
+            <span>Nome <br /></span>
+          <input /></div>
           <p><strong>Email</strong></p>
           <p>XXXXXX</p>
           <p><strong>Telefone celular</strong></p>
@@ -23,7 +24,7 @@ export default function Seusdados ()  {
           <span role="img" aria-label="edit">✏️</span>
         </div>
       </div>
-      <p><Link href={'/'}>Voltar</Link></p>
+      <p><Link href={'/'}>Voltar</Link></p>*/}
     </div>
   );
 };
